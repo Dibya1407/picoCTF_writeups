@@ -4,7 +4,7 @@ date: 2026-04-01
 layout: writeup
 platform: PicoCTF
 categories: [Web Exploitation]
-tags: [web]
+tags: [web,sqlmap,SQLi]
 difficulty: medium
 challenge link: https://play.picoctf.org/practice/challenge/729?category=1&difficulty=2&originalEvent=79&page=1
 ---
