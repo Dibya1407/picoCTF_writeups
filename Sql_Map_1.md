@@ -9,7 +9,7 @@ difficulty: medium
 challenge link: https://play.picoctf.org/practice/challenge/729?category=1&difficulty=2&originalEvent=79&page=1
 ---
 
-# No FA
+# Sql Map 1
 
 Writeup for Sql Map 1 challenge of PicoCTF 2026.
 

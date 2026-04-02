@@ -1,5 +1,5 @@
 ---
-title: "No FA"
+title: "Hashgate"
 date: 2026-04-01
 layout: writeup
 platform: PicoCTF
@@ -9,13 +9,13 @@ difficulty: medium
 challenge link: https://play.picoctf.org/practice/challenge/750?category=1&difficulty=2&originalEvent=79&page=1
 ---
 
-# No FA
+# Hashgate
 
 Writeup for Hashgate challenge of PicoCTF 2026.
 
 ## Login page and URL
 
-Upon inspecting the html of the page we get the credentials for guest:
+Upon inspecting the html of the Login page we get the credentials for guest:
 
 ```
 <!-- Email: guest@picoctf.org Password: guest -->
