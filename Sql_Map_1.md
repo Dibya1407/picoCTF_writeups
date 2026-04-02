@@ -35,7 +35,7 @@ The querry used for extracting usernames and password hashes was-
 
 This returned a lot of usernames and md5 password hashes.
 
-The only hash that was cracked by crackstation.net was of the user: ctf-player
+The only hash that was cracked by [CrackStation](https://crackstation.net/) was of the user: ctf-player
 >hash: 7a67ab5872843b22b5e14511867c4e43
 
 On cracking we get the password to be

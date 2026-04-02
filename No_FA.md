@@ -25,7 +25,7 @@ Username: admin
 Hash: c20fa16907343eef642d10f0bdb81bf629e6aaf6c906f26eabda079ca9e5ab67
 ```
 
-the hash can be cracked using crackstation.net, which gives us the password as "apple@123"
+the hash can be cracked using [CrackStation](https://crackstation.net/), which gives us the password as "apple@123"
 
 ## 2 Factor Authentication
 
@@ -36,8 +36,7 @@ Upon inspecting the session cookie, we get a flask session cookie which upon dec
 for example - 
 >.eJwty0sKgCAQANC7zFoCs1HzMiE5ieAPtVV091y0ffAeiMV7cmDgsrETMCijHp3ORmOiWLX8bYREfdhUwXClkKNEJRa9qV0jMrg7tWwTzWRdChneD0gDHHM.ac69XQ.GT-mNNjb11Ydu4LDYF-9w-pGSLc
 
-decoding using https://www.kirsle.net/wizards/flask-session.cgi
-
+decoding using [this flask cookie decoder](https://www.kirsle.net/wizards/flask-session.cgi)
 we get -
 
 ``` 
